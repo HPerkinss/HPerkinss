@@ -1,4 +1,4 @@
-Hi 👋, I'm Uzziah lukeka
+Hi 👋, I'm HenockPerkinss
 
 🔭 I’m currently working on some bootcamps projects
 🌱 I’m currently learning Pyhton and SQL
